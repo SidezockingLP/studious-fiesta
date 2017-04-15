@@ -1,0 +1,68 @@
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\ApplicationInsights.config
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\csc.exe
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\csc.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\csc.rsp
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\csi.exe
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\csi.rsp
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\System.AppContext.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\System.IO.FileSystem.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\vbc.exe
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\vbc.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\vbc.rsp
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\VBCSCompiler.exe
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Internetseite Side Dev.dll.config
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Internetseite Side Dev.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Internetseite Side Dev.pdb
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\WebForms_Basic.xml
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Antlr3.Runtime.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AI.Web.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.ApplicationInsights.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Newtonsoft.Json.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\System.Web.Optimization.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\WebGrease.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\System.Web.Optimization.xml
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Antlr3.Runtime.pdb
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Newtonsoft.Json.xml
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.ApplicationInsights.xml
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\Microsoft.AI.Web.xml
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\de\System.Web.Optimization.resources.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\bin\de\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\obj\Debug\Internetseite Side Dev.vbprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\obj\Debug\Internetseite_Side_Dev.Resources.resources
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\obj\Debug\Internetseite Side Dev.vbproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\obj\Debug\Internetseite Side Dev.dll
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\obj\Debug\WebForms_Basic.xml
+c:\users\hp\documents\visual studio 2017\Projects\Internetseite Side Dev\Internetseite Side Dev\obj\Debug\Internetseite Side Dev.pdb
